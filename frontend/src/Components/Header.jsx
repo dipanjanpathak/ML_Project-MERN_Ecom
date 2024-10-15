@@ -53,7 +53,7 @@ const Header = () => {
       <Navbar expand="lg" bg="dark" variant="dark" collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>Abharole</Navbar.Brand>
+            <Navbar.Brand>E-Commerce</Navbar.Brand>
           </LinkContainer>
 
           <Navbar.Toggle aria-controls="navbarScroll" />
